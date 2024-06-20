@@ -49,7 +49,7 @@ Este proyecto tiene como objetivo demostrar el uso de Kotlin junto con Firestore
 ![Image text](https://github.com/programadorescs/FirestoreBasicoYT/blob/master/app/src/main/assets/FirestoreBasicoYT_002.png)
 
 ## Video en YouTube
-[![Alt text](https://img.youtube.com/vi/5IMrEkIg1J0/0.jpg)](https://www.youtube.com/watch?v=5IMrEkIg1J0)
+[![Alt text](https://img.youtube.com/vi/0sIXpWT0-Ow/0.jpg)](https://www.youtube.com/watch?v=0sIXpWT0-Ow)
 
 
 
