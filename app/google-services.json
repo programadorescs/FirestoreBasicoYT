@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628366847649",
+    "project_id": "demodb-9a009",
+    "storage_bucket": "demodb-9a009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628366847649:android:d8f8f12f1dadae91264ae0",
+        "android_client_info": {
+          "package_name": "pe.pcs.firestorebasicoyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjT4Dj_wYLjqQMP0arAodqJzs7_8_sMXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
